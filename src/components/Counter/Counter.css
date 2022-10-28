@@ -1,0 +1,15 @@
+.Counter {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 400px;
+}
+.Counter__value {
+  text-align: center;
+  color: blueviolet;
+}
+
+.Counter__controls button {
+  margin-right: 10px;
+  margin-top: 10px;
+}
